@@ -1,0 +1,137 @@
+
+ .social-icons{
+	 border-top: 4px solid gray;
+	 width: 30%;
+ }
+ 
+ .social-icons i{
+	 font-size: 28px;
+ }
+ .team-members{
+    borde-radius: 50%;
+	width :150px;
+	height: 150px;
+	border: 3px solid;
+ }
+  
+
+.contact{
+background-color: black;
+
+
+border-radius: 5px;
+color: chocholate;
+}
+
+#header{
+	text-align: center;
+	margin: 30px;
+}
+
+#header i{
+	font-size: 15px;
+}
+
+#header  h2{
+	margin-top: 80px;
+	font-size: 80px;
+	font-family: 'Abril Fatface', cursive;
+color:white;
+	}
+
+#header  p{
+	font-family: 'Lobster', cursive;
+	font-size: 20px;color:white;
+}
+
+.hr{
+	font-size: 50px;
+	}
+
+.hrline{
+	display: inline-block;
+	border: 1px white solid;
+	width: 15%;
+	height: 1px;
+	margin-bottom: 14px;
+
+	}
+
+#section1 h3{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#section1 p{
+	font-family: 'Roboto', sans-serif;
+}
+ 
+ #section1 img{
+ width: auto;
+ }
+ 
+
+.hr2{
+	font-size: 50px;
+	text-align: center;
+}
+
+#wedo h3{
+	margin-top: 6%;
+	font-size: 33px;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	
+}
+
+#wedo p{
+	margin-top: 2%;
+	font-size: 135%;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+#meal h3{
+	margin-top: 6%;
+	font-size: 33px;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	
+}
+
+#meal p{
+	margin-top: 1%;
+	font-size: 135%;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+ 
+ #think h3{
+	margin-top: 6%;
+	font-size: 33px;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	
+}
+
+#think p{
+	margin-top: 1%;
+	font-size: 50px;
+	font-family: 'Roboto', sans-serif;
+}
+ 
+ 
+ #ndl h3{
+	margin-top: 6%;
+	font-size: 43px;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	
+}
+
+#ndl p{
+	margin-top: 1%;
+	font-size: 201%;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
